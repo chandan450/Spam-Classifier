@@ -38,6 +38,11 @@ Through the steps above, we take standard classification email documents as trai
 In order to test the performance of above mentioned six methods, we used the most popular evaluation methods used by the spam filtering researchers. Spam Precision (SP), Spam Recall (SR), Accuracy (A). Spam Precision (SP) is the number of relevant documents identified as a  
  of Spam Correctly Classified  Nspam→spam 
 
+## How to Run
+1. Import the dataset from the directory where you saved the dataset
+2. Run the whole program by entering ctrl+enter.
+3. Observe the accracy.
+
 ## RESULTS 
 After building the machine learning model we can predict that a email or messages on mobile phones etc.  is spam or ham (i.e Not  spam) by using this model. 
 This model is trained on a huge dataset and has a accuracy of 98.7% for predicting a message is a  spam or not spam. 
