@@ -39,9 +39,10 @@ In order to test the performance of above mentioned six methods, we used the mos
  of Spam Correctly Classified  Nspam→spam 
 
 ## How to Run
-1. Import the dataset from the directory where you saved the dataset
-2. Run the whole program by entering ctrl+enter.
-3. Observe the accracy.
+1. Open Spyder or Jupyter Notebook 
+2. Import the dataset from the directory where you saved the dataset
+3. Run the whole program by entering ctrl+enter.
+4. Observe the accracy.
 
 ## RESULTS 
 After building the machine learning model we can predict that a email or messages on mobile phones etc.  is spam or ham (i.e Not  spam) by using this model. 
