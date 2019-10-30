@@ -7,7 +7,7 @@ Recently unsolicited commercial / bulk e-mail also known as spam, become a big t
 Machine learning field is a subfield from the broad field of artificial intelligence, this aims to make machines able to learn like human.
 
 ## Platform Used
-SPYDER
+SPYDER OR JUPYTER NOTEBOOK
 
 ## Project Description
 The objective is to implement a Naïve Bayesian anti-spam filter to segregate spam from ham and measure its efficiency using various cost effective meeasures. 
